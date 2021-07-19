@@ -1,1 +1,1 @@
-# Support-Vevtor-machine
+# Support-Vector-machine
